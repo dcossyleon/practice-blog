@@ -1,0 +1,25 @@
+# Theme metadata
+name = "workshop_theme1"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary ="#575757"
+primary_light = "#ee5863"
+primary_dark = "#ee5863"
+
+# Links
+link = "#999999"
+link_hover = "#111111"
+
+# Menu
+menu_primary = "#b2e0dd" # This is being ignored?? So instead specifying in css
+menu_text = "#000000"
+menu_text_active = "#508a86"
+menu_title = "#111111"
+
+# Backgrounds
+background = "#dcf1f0"
+home_section_odd = "#fcfcfc"
+home_section_even = "#fcfcfc"

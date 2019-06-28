@@ -5,21 +5,21 @@ name = "workshop_theme1"
 light = true
 
 # Primary
-primary ="#575757"
-primary_light = "#ee5863"
-primary_dark = "#ee5863"
+primary ="#b2e0dd" 
+primary_light = "#575757"
+primary_dark = "#1f547d"
 
 # Links
-link = "#999999"
-link_hover = "#111111"
+link = "#1f547dbd"
+link_hover = "#1f547d"
 
 # Menu
-menu_primary = "#b2e0dd" # This is being ignored?? So instead specifying in css
-menu_text = "#000000"
-menu_text_active = "#508a86"
-menu_title = "#111111"
+menu_primary = "#b2e0dd"
+menu_text = "#1f547dbd"
+menu_text_active = "#1f547d"
+menu_title = "#1f547d"
 
 # Backgrounds
 background = "#dcf1f0"
-home_section_odd = "#fcfcfc"
-home_section_even = "#fcfcfc"
+home_section_odd = "#edfbfa"
+home_section_even = "#edfbfa70"

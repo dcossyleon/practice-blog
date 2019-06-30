@@ -11,15 +11,15 @@ primary_dark = "#575757"
 
 # Links
 link = "#5e83dc" 
-link_hover = "#98aee4" # hover color for icons beneath profile
+link_hover = "#4957a7" # hover color for icons beneath profile
 
 # Menu
-menu_primary = "#c37280"
+menu_primary = "#adbbdc"
 menu_text = "#fcfcfc"
-menu_text_active = "#40181e" 
+menu_text_active = "#4957a7" 
 menu_title = "#fcfcfc"
 
 # Backgrounds
-background = "#f0e2e2"
-home_section_odd = "#fcfcfc"
-home_section_even = "#fcfcfc"
+background = "#e4e4e4"
+home_section_odd = "#e4e4e4"
+home_section_even = "#e4e4e4"

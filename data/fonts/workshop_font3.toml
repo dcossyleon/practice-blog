@@ -2,7 +2,7 @@
 name = "workshop_font3"
 
 # Optional Google font URL
-google_fonts = "Abril+Fatface|Cutive+Mono|Josefin+Slab:300,400,600,700|Open+Sans:400,600,700,800|Raleway:300,400,500,600|Arvo|Montserrat|Lora|Lato"
+google_fonts = "Cutive+Mono|Josefin+Slab:300,400,600,700|Open+Sans:400,600,700,800|Raleway:300,400,500,600|Arvo|Montserrat|Lora|Lato"
 
 # Font families
 heading_font = "Cutive Mono"
